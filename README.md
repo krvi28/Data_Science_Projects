@@ -1,3 +1,3 @@
-# Pandas_Data_Science
+# Data Science Projects
 
-Contains the projects related to Pandas, Seaborn and Scikit Learn
+Contains the projects related to Pandas, Seaborn and Scikit-Learn
